@@ -1,0 +1,12 @@
+.container-fluid{
+    background-color:rgb(50, 96, 108);
+    height: 70px;
+    /* float: left; */
+ }
+.footer{
+    background-color: black;
+    justify-content: center;
+    height: 90px;
+    align-items: center;
+    padding-top: 40;
+}
